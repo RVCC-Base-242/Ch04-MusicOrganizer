@@ -10,9 +10,4 @@ This project is part of the material for the book
 
 It is discussed in chapter 4.
 
-To start:
-
-Create a Builder object and then call its getCollection method.
-Use the Get button from the result window to place the
-MusicCollection object on the object bench.
 
